@@ -1,0 +1,46 @@
+9
+
+dir
+86
+svn://ndafile.igatecorp.com/ELTP_2016/JEELot/8thAug_JEE_Batch/JEE_Batch_G2/Documentation/Development/Source/AssetManagement/src/com/cg/assetmanagement
+svn://ndafile.igatecorp.com/ELTP_2016/JEELot/8thAug_JEE_Batch/JEE_Batch_G2
+
+
+
+2016-11-02T03:53:13.340041Z
+81
+user1
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6046659b-560d-0049-a6b7-8c5c5c5821fd
+
+service
+dir
+
+controller
+dir
+
+dao
+dir
+
+dto
+dir
+
+testcase
+dir
+
+exception
+dir
+
